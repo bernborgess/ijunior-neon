@@ -2,9 +2,20 @@
   "name": "ijunior-neon",
   "displayName": "ijunior-neon",
   "description": "Tema neon para devs 👻",
+  "publisher": "bernborgess",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
+  },
+  "icon": "icons/logo.png",
+  "author": {
+    "name": "Bernardo Borges",
+    "email": "bernborgess@outlook.com",
+    "url": "https://www.linkedin.com/in/bernborgess/"
+  },
+  "repository": {
+    "url": "https://github.com/bernborgess/ijunior-neon.git",
+    "type": "git"
   },
   "categories": [
     "Themes"
